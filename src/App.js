@@ -57,9 +57,9 @@ function App() {
                   <h3>
                     Hello, It's me
                   </h3>
-                  <h1>Ali Zerrouki Aya</h1>
+                  <h1>CLINTON MURUGI</h1>
                   <h3>and I'm a</h3>
-                  <p> Computer science student, i' have a medium <br/>
+                  <p>Web dev,cyber security data analit,ict Student  , i' have a medium <br/>
                     background in web ,mobile app and desctop app devolpment</p>
                     <div className='social'>
               <FaFacebook/>
@@ -82,7 +82,7 @@ function App() {
       <div className='a-paragraph'>
       <h2  className='head'>About </h2>
       
-             <p>I'm Ali Zerrouki Aya, a computer science Student in the first year I have ability of creating a web application , mobile application and
+             <p>CLINTON, a Web dev,cyber security data analit,ict Student in the first year I have ability of creating a web application , mobile application and
                     desktop application , I'm passion about learning new technologies and tools</p>
                     <button>Read More</button>
                     </div>
